@@ -1,0 +1,8 @@
+Serveur : test.mosquitto.org
+Port (si nécessaire) : 1883
+Topic : c1-envoi-temperature / données entre -20 et 40
+Topic : c1-temperature-alerte / 'OK', 'Warning', 'Alert'
+Topic : c2-envoi-temperature / données entre -20 et 40
+Topic : c2-temperature-alerte / 'OK', 'Warning', 'Alert'
+Topic : grele-state-in / données 0 ou 1
+Topic : grele-state-out / données 0 ou 1
